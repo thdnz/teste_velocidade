@@ -18,8 +18,8 @@ Este é um projeto simples que utiliza o Flask para realizar um teste de velocid
 ## Como executar o projeto
 
 1. Certifique-se de ter o Python instalado em sua máquina.
-2. Clone este repositório: `git clone https://github.com/seu-usuario/nome-do-repositorio.git`.
-3. Acesse o diretório do projeto: `cd nome-do-repositorio`.
+2. Clone este repositório: `git clone https://github.com/thdnz/teste_velocidade.git`.
+3. Acesse o diretório do projeto: `cd teste_velocidade`.
 4. Instale as dependências necessárias: `pip install -r requirements.txt`.
 5. Execute o arquivo `app.py` para iniciar o servidor Flask.
 6. Abra o navegador e acesse `http://localhost:5000` para visualizar a página do teste de velocidade.
